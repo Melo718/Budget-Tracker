@@ -6,10 +6,9 @@ This budget tracker will allow the user to user the application offline,  While 
 -Mongoose 
 -Express, 
 -Morgan, 
--Mongoose
 
 ## Github Repo
 https://github.com/Melo718/Budget-Tracker
 
 ## Budget Tracker Screenshot
-![Budget Tracker](public\icons\trackerpic.png)
+![Budget Tracker](public/icons/trackerpic.png)
